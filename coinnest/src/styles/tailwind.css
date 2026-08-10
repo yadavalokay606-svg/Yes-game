@@ -1,0 +1,12 @@
+/* tailwind placeholder
+
+To render Tailwind utility classes in this prototype, either:
+- Install Tailwind CSS and import the generated CSS here
+- Or include a Tailwind CDN link in public/index.html for quick preview
+
+This file intentionally left minimal as a placeholder for design tokens.
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
